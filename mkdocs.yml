@@ -29,7 +29,7 @@ theme:
 # 这里写目录
 nav:
   - News推送:
-    - 1Update/1Update.md
+    - 1Update/index.md
   - 生活随笔:
     - 2Informal_Notes/index.md
   - 体育运动:
@@ -37,7 +37,7 @@ nav:
   - 每周总结:
     - 4Weekly_Summary/index.md
   - 主页:
-    - 1Index.md
+    - index.md
 
 markdown_extensions:
   # 支持个性化定制
