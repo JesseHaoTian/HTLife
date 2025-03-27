@@ -68,7 +68,9 @@ markdown_extensions:
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
-    
+  
+extra:
+  homepage: https://life.jesseht.fun
 
 ## [bottom-left corner]
 copyright: Copyright &copy; 2025-现在 JesseHT # 左下角的版权声明
