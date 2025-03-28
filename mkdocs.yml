@@ -69,6 +69,8 @@ markdown_extensions:
       custom_checkbox: true
   # Annotations
   - md_in_html
+  # Footnotes
+  - footnotes
 
 
 extra_css:
