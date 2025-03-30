@@ -71,6 +71,8 @@ markdown_extensions:
   - md_in_html
   # Footnotes
   - footnotes
+  # Image
+  - pymdownx.blocks.caption
 
 
 extra_css:
