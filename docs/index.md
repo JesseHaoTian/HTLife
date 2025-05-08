@@ -2,7 +2,7 @@
 
 !!! success "欢迎来访 JesseHT の 生活站 ！"
 
-   本站内容更新一览，敬请[查收](https://life.jesseht.fun/1Upadte/)~ 
+   本站内容更新一览，敬请[查收](https://life.jesseht.fun/1Update/)~ 
 
 !!! tip "比起死亡，我更怕活得不精彩"
 
